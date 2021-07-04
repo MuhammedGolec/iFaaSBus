@@ -30,5 +30,5 @@ To cite:
 @article{ xyz } or "IEEE format"
 
 # Developer:
-[https://github.com/Muhammed1616](muhammedgolec@hotmail.com)  
+[https://github.com/Muhammed1616]()  
 []()
