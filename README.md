@@ -24,13 +24,13 @@ To cite:
 
 # Developer:
 **Muhammed Göleç** <br/> 
-Mail: *muhammedgolec@hotmail.com*
-Linkedin: [https://www.linkedin.com/in/muhammed-golec-b55756119/]
+mail: *muhammedgolec@hotmail.com* <br/>
+Linkedin: [https://www.linkedin.com/in/muhammed-golec-b55756119/] <br/>
 Github: [https://github.com/Muhammed1616]() 
 
 **Rıdvan Özturaç** <br/> 
-Mail: *rdvan1994@gmail.com*
-Linkedin: [https://www.linkedin.com/in/rozturac/]
+mail: *rdvan1994@gmail.com* <br/>
+Linkedin: [https://www.linkedin.com/in/rozturac/] <br/>
 Github: [https://github.com/rozturac]()
 
 
