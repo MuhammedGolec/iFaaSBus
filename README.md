@@ -35,11 +35,3 @@ Github: [https://github.com/rozturac]()
 
 
 
-
-Trial word
-
-# git-dersleri
-
-## Projenin Amacı
-**kalın kelime** <br/>
-*italik kelime*
