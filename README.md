@@ -25,3 +25,12 @@ To cite:
 # Developer:
 [https://github.com/Muhammed1616]()  
 [https://github.com/rozturac]()
+
+
+Trial word
+
+# git-dersleri
+
+## Projenin Amacı
+**kalın kelime** <br/>
+*italik kelime*
