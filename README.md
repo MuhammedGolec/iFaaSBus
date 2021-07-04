@@ -23,8 +23,17 @@ To cite:
 @article{ xyz } or "IEEE format"
 
 # Developer:
-[https://github.com/Muhammed1616]()  
-[https://github.com/rozturac]()
+**Muhammed Göleç ** <br/> 
+Mail: *muhammedgolec@hotmail.com*
+Linkedin: [https://www.linkedin.com/in/muhammed-golec-b55756119/]
+Github: [https://github.com/Muhammed1616]() 
+
+**Rıdvan Özturaç ** <br/> 
+Mail: *rdvan1994@gmail.com*
+Linkedin: [https://www.linkedin.com/in/rozturac/]
+Github: [https://github.com/rozturac]()
+
+
 
 
 Trial word
