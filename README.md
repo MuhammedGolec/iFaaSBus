@@ -17,13 +17,6 @@ iFaasBus works using three different servers. These are Artificial Intelligence 
 
 
 
-# Designers:
-
-For AI Server
-
-For Main Server and Identity Server
-
-
 Warning: The copyright of the shared work is reserved. Reference should be cite to the iFaasBus article for use in academic studies. 
 
 To cite:
