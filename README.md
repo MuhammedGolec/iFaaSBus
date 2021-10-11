@@ -20,7 +20,7 @@ iFaasBus works using three different servers. These are Artificial Intelligence 
 Warning: The copyright of the shared work is reserved. Reference should be cite to the iFaasBus article for use in academic studies. 
 
 To cite:
-@article{ xyz } or "IEEE format"
+M. Golec, R. Ozturac, Z. Pooranian, S. S. Gill and R. Buyya, "iFaaSBus: A Security and Privacy based Lightweight Framework for Serverless Computing using IoT and Machine Learning," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2021.3095466.
 
 # Developer:
 **Muhammed Göleç** <br/> 
