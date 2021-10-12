@@ -9,7 +9,7 @@ iFaasBus works using three different servers. These are Artificial Intelligence 
 
 1 - First, data preprocessing was performed on our 21 variable dataset. Our problem is a classification problem and categorical variables ('Y', 'N') are converted to numeric values with a label encoding method (1,0).  Three different methods have been tested for the Feature Selection method and Chi-Squared is the most successful method. Using the Chi-Squared Feature Selection method, the 21-variable dataset was reduced to the 10 variables with the highest correlation.
 
-The Ai Server used in the system was deployed on Heroku using Serverless Architecture and the performances of Serverless Cloud were measured using the Apache program. Here, only the KNN ML model, which is the most successful model we have deployed to Heroku, will be shown.
+The Ai Server used in the system was deployed on Heroku using Serverless Architecture and the performances of Serverless Cloud were measured using the Apache program. Here (Ai Server), only the KNN ML model, which is the most successful model we have deployed to Heroku, will be shown.
 
 2 -
 
