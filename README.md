@@ -11,11 +11,11 @@ iFaasBus works using three different servers. These are Artificial Intelligence 
 
 The Ai Server used in the system was deployed on Heroku using Serverless Architecture and the performances of Serverless Cloud were measured using the Apache program. Here (Ai Server), only the KNN ML model, which is the most successful model we have deployed to Heroku, will be shown.
 
+To access the Covid-19 version "https://www.kaggle.com/hemanthhari/symptoms-and-covid-presence"
+
 2 -
 
-3 -
 
-4 -
 
 
 
